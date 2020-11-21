@@ -3,7 +3,7 @@
   [{
   "type" : "Balcony_Level",
   "number" : 10,
-  "price" : 1170   
+  "price" : 1170  
   },
   {
   "type" : "Lower_Level",
@@ -12,7 +12,7 @@
   },
   {
   "type" : "Courtside",
-  "number" : 20,
+  "number" : 30,
   "price" : 27777
   }]
 }
