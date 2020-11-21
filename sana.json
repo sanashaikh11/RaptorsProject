@@ -1,19 +1,18 @@
 {
-
-"data" :
+"tic_data" :
   [{
-  "location" : "Balcony Level",
-  "availableSeats" : 50,
-  "ticketPrice" : 1170.0   
+  "type" : "Balcony_Level",
+  "number" : 10,
+  "price" : 1170   
   },
   {
-  "location" : "Lower Level",
-  "availableSeats" : 40,
-  "ticketPrice" : 10434.0 
+  "type" : "Lower_Level",
+  "number" : 20,
+  "price" : 10434 
   },
   {
-  "location" : "Court Side",
-  "availableSeats" : 30,
-  "ticketPrice" : 27777.0 
+  "type" : "Courtside",
+  "number" : 20,
+  "price" : 27777
   }]
 }
