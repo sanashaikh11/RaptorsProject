@@ -1,21 +1,21 @@
 {
-  "student" : "Heet Patel",
+"student" : "Heet Patel",
 "version" : "1",
 "count" : "3",
 "data" :
   [{
-  "type" : "Balcony_Level",
-  "number" : 10,
-  "price" : 1170  
+  "location" : "Balcony Level",
+  "availableSeats" : 25,
+  "ticketPrice" : 1170.0   
   },
   {
-  "type" : "Lower_Level",
-  "number" : 20,
-  "price" : 10434 
+  "location" : "Lower Level",
+  "availableSeats" : 40,
+  "ticketPrice" : 10434.0 
   },
   {
-  "type" : "Courtside",
-  "number" : 30,
-  "price" : 27777
+  "location" : "Court Side",
+  "availableSeats" : 30,
+  "ticketPrice" : 27777.0 
   }]
 }
