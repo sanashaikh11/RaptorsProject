@@ -1,0 +1,21 @@
+{
+"student" : "Sana Shaikh",
+"version" : "1",
+"count" : "3",
+"data" :
+  [{
+  "location" : "Balcony Level",
+  "availableSeats" : 25,
+  "ticketPrice" : 1170.0   
+  },
+  {
+  "location" : "Lower Level",
+  "availableSeats" : 40,
+  "ticketPrice" : 10434.0 
+  },
+  {
+  "location" : "Court Side",
+  "availableSeats" : 30,
+  "ticketPrice" : 27777.0 
+  }]
+}
