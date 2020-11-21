@@ -5,7 +5,7 @@
 "data" :
   [{
   "location" : "Balcony Level",
-  "availableSeats" : 25,
+  "availableSeats" : 50,
   "ticketPrice" : 1170.0   
   },
   {
